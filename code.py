@@ -1,3 +1,4 @@
+/*NO 5...
 def binary_to_decimal(binary):
     stack = []
     decimal = 0
